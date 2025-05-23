@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ecommerce-app/static/css/main.de2b129c.css",
-    "main.js": "/ecommerce-app/static/js/main.c60f6673.js",
-    "static/media/men1.jpg": "/ecommerce-app/static/media/men1.fa622296f4e2a2c73f75.jpg",
-    "static/media/men3.jpg": "/ecommerce-app/static/media/men3.a5dc861c9dd47f8efdcb.jpg",
-    "static/media/men9.jpg": "/ecommerce-app/static/media/men9.2d4757c47cd8465a0b15.jpg",
-    "index.html": "/ecommerce-app/index.html",
-    "main.de2b129c.css.map": "/ecommerce-app/static/css/main.de2b129c.css.map",
-    "main.c60f6673.js.map": "/ecommerce-app/static/js/main.c60f6673.js.map"
+    "main.css": "/static/css/main.de2b129c.css",
+    "main.js": "/static/js/main.f576dd97.js",
+    "static/media/men1.jpg": "/static/media/men1.fa622296f4e2a2c73f75.jpg",
+    "static/media/men3.jpg": "/static/media/men3.a5dc861c9dd47f8efdcb.jpg",
+    "static/media/men9.jpg": "/static/media/men9.2d4757c47cd8465a0b15.jpg",
+    "index.html": "/index.html",
+    "main.de2b129c.css.map": "/static/css/main.de2b129c.css.map",
+    "main.f576dd97.js.map": "/static/js/main.f576dd97.js.map"
   },
   "entrypoints": [
     "static/css/main.de2b129c.css",
-    "static/js/main.c60f6673.js"
+    "static/js/main.f576dd97.js"
   ]
 }
